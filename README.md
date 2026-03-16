@@ -4,7 +4,7 @@
 
 ## 特性
 
-- ⚡️ Vite - 极速的开发体验
+- ⚡️ Vite 8 - 最新版本，极速的开发体验和构建性能
 - ⚛️ React 18 - 最新的 React 版本
 - 🎨 Tailwind CSS V4 - 最新的原子化 CSS 框架
 - 📘 TypeScript - 类型安全
