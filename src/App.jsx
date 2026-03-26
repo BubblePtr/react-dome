@@ -1,12 +1,7 @@
-import ValidatedComponent from './ValidatedComponent'
+import ValidatedComponent from "./ValidatedComponent";
 
 function App() {
-  return (
-    <div>
-      Hello World
-      <ValidatedComponent />
-    </div>
-  )
+  return <ValidatedComponent />;
 }
 
-export default App
+export default App;

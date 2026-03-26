@@ -1,9 +1,5 @@
 function ValidatedComponent() {
-  return (
-    <div>
-      ValidatedComponent
-    </div>
-  )
+  return <div>Hello, World!</div>;
 }
 
-export default ValidatedComponent
+export default ValidatedComponent;
